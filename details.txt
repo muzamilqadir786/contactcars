@@ -1,0 +1,37 @@
+we need to scrap data from http://www.contactcars.com/newcars/makes
+every car brand such as http://www.contactcars.com/newcars/models/33 we need to extract make, model and year highlighted in the attached file make.png and upload them into the mysql data base below 
+and go into every model just like this http://www.contactcars.com/newcars/modelengines/113?year=2015 and extract the description and price as per the attached price.png
+we need to host the python code on https://www.pythonanywhere.com
+username HHamouda
+password D9x-Drn-JHH-EGH
+
+the database is mysql and it's hosted on godaddy here are the details
+IP 23.229.196.129
+Port 3306
+Username ebinp
+Password xqU-3xY-82H-TRK
+Databse Name contact
+Table Name new cars
+Field that need to be updated on the database are 
+_source: that needs to be "contactcars" for all records
+_pageUrl: the page of the last scrapped page
+currenttime: is the current timestamp
+remove_date: the date the URL is no longer available
+make, model, model_year, price and desc
+
+OFFER DETAILS
+
+Client: Mahmoud Hamouda (Mahmoud Hamouda)
+Freelancer: muzamil qadir 
+Job Posting: Scrap website
+Contract Title: Scrap website
+Estimated Budget: $100.00
+
+
+Milestone 1: "Scrap website" - $100.00 (funded)
+
+Attachments: make.png price.png
+
+
+This offer will expire on Wednesday, December 23, 2015.
+Review and accept this offer to start working now!
