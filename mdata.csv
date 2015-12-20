@@ -1,0 +1,6 @@
+description,links,price,year,model,make
+/NewCars/Engines/3523,,"119,900 ج.م.",2014,MG 3 Cross Over,  أم جي
+description_link,links,price,year,model,make
+/NewCars/Engines/3523,,"119,900 ج.م.",2014,MG 3 Cross Over,  أم جي
+price,description_link,make,model,year
+"119,900 ج.م.",/NewCars/Engines/3523,  أم جي,MG 3 Cross Over,2014

@@ -9,12 +9,10 @@ import scrapy
 
 
 class ContactcarsItem(scrapy.Item):
-    # define the fields for your item here like:
-    # name = scrapy.Field()
-    links = scrapy.Field()
+    # define the fields for your item here like:    
     make = scrapy.Field()
     model = scrapy.Field()
     year = scrapy.Field()
     price = scrapy.Field()
-    description = scrapy.Field()
+    description_link = scrapy.Field()
     
